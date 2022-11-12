@@ -1,0 +1,23 @@
+{
+  "name": "robolabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i input.css -o output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevPrak10/Robolabs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevPrak10/Robolabs/issues"
+  },
+  "homepage": "https://github.com/DevPrak10/Robolabs#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
